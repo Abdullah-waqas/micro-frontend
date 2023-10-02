@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - master
+      - test-feature
     paths:
       - "packages/container/**"
 
